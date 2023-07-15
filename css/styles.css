@@ -1,0 +1,159 @@
+#navigationBarParent{
+    white-space: nowrap;
+    background-image: linear-gradient(to right, #2455a3 , #328fd4, #2874a6);
+    color: white;
+    padding: 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navigationBarChild{
+    display: inline-block;
+}
+
+.verticalCenter{
+    padding: 0 5px;
+    line-height: normal;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    padding: 5px;
+    /* font-family:  'Roboto'; */
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #2874a6, #2455a3);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.ptitle{
+    text-align: center;
+    padding: 0 50px;
+}
+
+.all{
+    white-space: nowrap;
+}
+
+#login{
+    /* border: 1px solid; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.loginContent{
+    padding: 10px;
+}
+
+.student{
+    border-top: 3px solid;
+    border-color: #4b95c1;
+    color: #0d6efd;
+
+}
+
+.studentButton{
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.studentButton:hover{
+    background-color: #2455a3;
+}
+
+.employee{
+    border-top: 3px solid;
+    border-color: #d7b21f;
+    color: #d4ac0d;
+}
+
+.employeeButton{
+    background-color: #d4ac0d;
+    color: black;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.employeeButton:hover{
+    background-color: #bf973c;
+}
+
+.parent{
+    border-top: 3px solid;
+    border-color: #29b359;
+    color: #198754;
+}
+
+.parentButton{
+    background-color: #198754;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.parentButton:hover{
+    background-color: #285430;
+}
+
+.alumni{
+    border-top: 3px solid;
+    border-color: #69b3e4;
+    color: #5adbf4;
+}
+
+.alumniButton{
+    background-color: #0dcaf0;
+    color: black;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.alumniButton:hover{
+    background-color: #098aa3;
+}
+
+.cardHeading{
+    color: #ae5075;
+    background-color: #f7f7f7;
+    border-top: 3px solid;
+    border-color: #814329;
+    padding-left: 15px;
+}
+
+.cardText{
+    font-size: x-small;
+}
+
+.shieldIcon{
+    color: #bf973c;
+}
+
+.lightningIcon{
+    color: #ae5075;
+}
+
+footer{
+    background-image: linear-gradient(to right, #2455a3 , #328fd4, #2874a6);
+    color: white;
+    margin-bottom: 0;
+}
+
+#footerSettings{
+    /* margin-bottom: 0; */
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+    text-align: center;
+}
+
+.cardVTOP{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
